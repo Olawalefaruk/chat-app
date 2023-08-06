@@ -25,6 +25,7 @@
 .combine {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -40,6 +41,7 @@
   border: 8px solid white;
   border-radius: 30px;
   margin-top: 20px;
+  margin-bottom: 20px;
 
   position: relative;
 
